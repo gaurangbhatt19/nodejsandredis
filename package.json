@@ -1,0 +1,19 @@
+{
+  "name": "noderedis",
+  "version": "1.0.0",
+  "description": "NodeJs With Redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurangbhatt19/nodejsandredis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurangbhatt19/nodejsandredis/issues"
+  },
+  "homepage": "https://github.com/gaurangbhatt19/nodejsandredis#readme"
+}
